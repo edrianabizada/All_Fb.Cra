@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/anggaxd">Angga Kurniawan</a>
+  Made with ❤️ by <a href="https://github.com/edrianabizada">Angga Kurniawan</a>
 </p>
 <p align="center">
  <img src="https://raw.githubusercontent.com/anggaxd/rnumber/master/Screenshot/20200905_161254.png" width="640" title="Menu" alt="Menu">
@@ -18,7 +18,7 @@ $ pkg install python2
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
-$ git clone https://github.com/anggaxd/rnumber
+$ git clone https://github.com/edrianabizada/All_Fb.Cra
 ```
 
 ## Run script
