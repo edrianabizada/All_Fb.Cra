@@ -23,8 +23,8 @@ $ git clone https://github.com/edrianabizada/All_Fb.Cra
 
 ## Run script
 ```
-$ cd rnumber
-$ python2 crack.py
+$ cd All_Fb.Cra
+$ python2 AllFbCra.py
 ```
 ## License 
 * Not License
